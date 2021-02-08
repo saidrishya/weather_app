@@ -13,5 +13,6 @@ A weather app that gives the weather information such as temperature, humidity.
    Run the application
 5. python manage.py runserver
 ```
+In case the API key is not working use this link https://openweathermap.org/api
 
 
