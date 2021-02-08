@@ -1,0 +1,60 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.top img{
+    width: 100px;
+    height: 100px;
+}
+
+.top p{
+    font-size: 50px;
+    padding-left: 120px;
+    margin-top: -70px;
+}
+
+.top{
+    background-color: rgb(0, 255, 255);
+    padding-bottom: -13px;
+}
+
+.remaining{
+   
+    height: 750px;
+    margin-top: -40px;
+    font-size: 33px;
+    align-items: center;
+    text-align: center;
+}
+
+input[type=text]{
+    width: 20%;
+    height: 30px;
+}
+
+input[type=submit]{
+    width: 80px;
+    height: 33px;
+    background-color: skyblue;
+    color: black;
+    border-radius: 10%;
+    box-shadow: none;
+    border: 0px;
+    font-size: 20px;
+
+}
+
+.xyz{
+    margin-top: 20px;
+    border: 3px;
+    width: 25%;
+    margin-left: 715px;
+    font-size: 29px;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #ccc; 
+}
+
+.xyz img{
+    margin-left: -50px;
+}
